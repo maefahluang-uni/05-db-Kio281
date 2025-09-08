@@ -15,7 +15,7 @@ In UserRepository, declare the following methods that help to find all user and 
 - `data.sql` contains insert statements for dummy users. Find where this file is and explain what it is used for? 
 
 ```
-Your answer
+The data.sql file, located in src/main/resources, contains SQL insert statements that Spring Boot runs at startup to pre-populate the database with initial or test data.
 ```
 
 ## User Reservice - Complete the code
